@@ -1,0 +1,25 @@
+.jumbotron{
+		text-align: center;
+		background-color: #00e2ff;
+		color: #f4f1a8;
+		background-size:100% auto;
+}
+
+#subTitle{
+	font-size: 28px;
+}
+
+#clock{
+	font-size: 18px;
+	color: red;
+}
+
+.invalidEntry {
+	color: red;
+	margin-bottom: 0px;
+}
+
+.validEntry {
+	margin-bottom: 0px;
+}
+
